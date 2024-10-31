@@ -11,14 +11,11 @@ To clone this repository to your local machine, follow these steps:
 3. Use the following command to clone the repository:
 
 ```bash
-git clone (https://github.com/ansarshaik965/AWS_DEVOPS_CICD)
+git clone (https://github.com/papithottibaby2001/AWS_DEVOPS_CICD)
 ```
 
 
 
-## Full Project Demo
-
-For a detailed walkthrough and demonstration of deploying the City Direction Web App on AWS, you can watch the full project video [here](https://www.appopener.com/yt/l7kdeo6ka).
 
 ## Project Structure
 
@@ -32,6 +29,4 @@ For a detailed walkthrough and demonstration of deploying the City Direction Web
   - Contains deployment scripts and instructions for automating deployments with AWS CodeDeploy and CodePipeline.
 
 
-Feel free to contribute to this project by submitting pull requests or opening issues.
 
-Happy coding! 🚀
